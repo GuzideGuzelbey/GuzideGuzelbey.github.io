@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "state": false,
+    "back-image": "assets/powercard.jpg",
+    "front-image": "assets/cardpattern.jpg"
+  },
+  {
+    "id": 2,
+    "state": false,
+    "back-image": "assets/freedomCard.jpg",
+    "front-image": "assets/cardpattern.jpg"
+  },
+  {
+    "id": 3,
+    "state": false,
+    "back-image": "assets/happinessCard.jpg",
+    "front-image": "assets/cardpattern.jpg"
+  },
+  {
+    "id": 4,
+    "state": false,
+    "back-image": "assets/loveCard.jpg",
+    "front-image": "assets/cardpattern.jpg"
+  },
+  {
+    "id": 5,
+    "state": false,
+    "back-image": "assets/powertyCard.jpg",
+    "front-image": "assets/cardpattern.jpg"
+  },
+  {
+    "id": 6,
+    "state": false,
+    "back-image": "assets/wealthCard.jpg",
+    "front-image": "assets/cardpattern.jpg"
+  }
+]
